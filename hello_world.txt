@@ -1,1 +1,2 @@
 guten morgen, Welt
+text to check git text editor set to VS Code!
